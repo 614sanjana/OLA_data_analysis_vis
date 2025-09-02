@@ -119,13 +119,5 @@ Below is a snapshot of the PowerBI dashboard:
 
 ---
 
-## Future Enhancements
-- Integrate Python for predictive analytics and ride-demand forecasting.
-- Expand dashboards with additional drill-through and tooltips for enhanced interactivity.
-- Automate data pipelines for real-time dashboard updates.
 
----
-## Contact
-
-For any questions or suggestions, feel free to reach out via [GitHub](https://github.com/vsumitwork).
 
